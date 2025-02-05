@@ -1,0 +1,56 @@
+@font-face {font-family: Deledda; src: url('Deledda.ttf');}
+body{
+    font-family: Deledda; 
+    font-size: 150%; 
+    background-color: #F4BB23;
+}
+header{
+    background-color: #AD9E8B;
+    display: inline-block;
+    width: 611px;
+    clear: both;
+}
+nav{
+    background-color: #9C8A6F; 
+    float: left;
+}
+main{
+    background-color: #AD9E8B; 
+    font-size: 120%;
+    display: inline-block;
+    width: 611px;
+}
+h1{
+    clear: both;
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 50px;
+    color: rgb(255, 248, 239);
+}
+p{
+    line-height: 120%;
+    width: 600px;
+    text-align: justify;
+    color: rgb(255, 248, 239);
+}
+li{
+    display: inline-block; 
+    width: 100%;;
+}
+footer{
+    background-color: #413b31;
+    display: inline-block;
+    width: 611px;
+}
+a{
+    text-decoration: none; 
+    color: rgb(255, 248, 239); 
+    display: inline-block; 
+    width: 200px; 
+    height: 35px; 
+    text-align: center;
+}
+img{
+    display: inline-block;
+    width: 180px;
+}
